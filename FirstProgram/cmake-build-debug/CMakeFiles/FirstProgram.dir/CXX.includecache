@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/geobl/CLionProjects/FirstProgram/main.cpp
+iostream
+-
+thread
+-
+cstdlib
+-
+ctime
+-
+
