@@ -1,0 +1,1605 @@
+Enter number of items on the military base: 200
+
+MachineGun	2780$
+Pistol	1299$
+Pistol	1299$
+Pistol	1299$
+SniperRifle	3164$
+Pistol	1299$
+MachineGun	2780$
+BulletCartridge	718$
+SniperRifle	3164$
+Grenade	361$
+Grenade	361$
+Grenade	361$
+Grenade	361$
+Grenade	361$
+Pistol	1299$
+Uniform	1271$
+MachineGun	2780$
+Armor	2439$
+SniperRifle	3164$
+SniperRifle	3164$
+SniperRifle	3164$
+MachineGun	2780$
+BulletCartridge	718$
+BulletCartridge	718$
+SniperRifle	3164$
+Armor	2439$
+Grenade	361$
+SniperRifle	3164$
+MachineGun	2780$
+Uniform	1271$
+SniperRifle	3164$
+SniperRifle	3164$
+Armor	2439$
+SniperRifle	3164$
+Grenade	361$
+SniperRifle	3164$
+Armor	2439$
+Uniform	1271$
+Grenade	361$
+MachineGun	2780$
+SniperRifle	3164$
+Uniform	1271$
+Pistol	1299$
+Uniform	1271$
+SniperRifle	3164$
+SniperRifle	3164$
+Armor	2439$
+Grenade	361$
+BulletCartridge	718$
+Uniform	1271$
+Armor	2439$
+BulletCartridge	718$
+Uniform	1271$
+Armor	2439$
+MachineGun	2780$
+Pistol	1299$
+Grenade	361$
+Armor	2439$
+Uniform	1271$
+Uniform	1271$
+Armor	2439$
+Pistol	1299$
+Uniform	1271$
+SniperRifle	3164$
+MachineGun	2780$
+MachineGun	2780$
+Armor	2439$
+Uniform	1271$
+Uniform	1271$
+Uniform	1271$
+Armor	2439$
+Grenade	361$
+Armor	2439$
+MachineGun	2780$
+SniperRifle	3164$
+MachineGun	2780$
+Uniform	1271$
+Armor	2439$
+MachineGun	2780$
+SniperRifle	3164$
+BulletCartridge	718$
+SniperRifle	3164$
+Pistol	1299$
+SniperRifle	3164$
+Grenade	361$
+Armor	2439$
+MachineGun	2780$
+Uniform	1271$
+Armor	2439$
+Armor	2439$
+Uniform	1271$
+Pistol	1299$
+Grenade	361$
+Armor	2439$
+SniperRifle	3164$
+MachineGun	2780$
+Grenade	361$
+BulletCartridge	718$
+Grenade	361$
+SniperRifle	3164$
+Pistol	1299$
+Grenade	361$
+Pistol	1299$
+BulletCartridge	718$
+MachineGun	2780$
+Grenade	361$
+Pistol	1299$
+Pistol	1299$
+MachineGun	2780$
+Uniform	1271$
+Grenade	361$
+Grenade	361$
+Uniform	1271$
+Armor	2439$
+Pistol	1299$
+BulletCartridge	718$
+SniperRifle	3164$
+Pistol	1299$
+MachineGun	2780$
+Uniform	1271$
+Uniform	1271$
+Pistol	1299$
+Pistol	1299$
+MachineGun	2780$
+Armor	2439$
+SniperRifle	3164$
+MachineGun	2780$
+BulletCartridge	718$
+BulletCartridge	718$
+Armor	2439$
+SniperRifle	3164$
+Pistol	1299$
+SniperRifle	3164$
+Pistol	1299$
+BulletCartridge	718$
+Grenade	361$
+SniperRifle	3164$
+Armor	2439$
+Armor	2439$
+Armor	2439$
+Armor	2439$
+Pistol	1299$
+BulletCartridge	718$
+Grenade	361$
+SniperRifle	3164$
+MachineGun	2780$
+Uniform	1271$
+SniperRifle	3164$
+SniperRifle	3164$
+SniperRifle	3164$
+MachineGun	2780$
+Armor	2439$
+Pistol	1299$
+SniperRifle	3164$
+Uniform	1271$
+Pistol	1299$
+Grenade	361$
+Grenade	361$
+SniperRifle	3164$
+MachineGun	2780$
+BulletCartridge	718$
+Uniform	1271$
+Armor	2439$
+Pistol	1299$
+BulletCartridge	718$
+Uniform	1271$
+Grenade	361$
+Pistol	1299$
+SniperRifle	3164$
+Armor	2439$
+MachineGun	2780$
+Armor	2439$
+Pistol	1299$
+Uniform	1271$
+Pistol	1299$
+BulletCartridge	718$
+Pistol	1299$
+Pistol	1299$
+BulletCartridge	718$
+BulletCartridge	718$
+Pistol	1299$
+Armor	2439$
+Grenade	361$
+MachineGun	2780$
+Uniform	1271$
+Grenade	361$
+BulletCartridge	718$
+Pistol	1299$
+Pistol	1299$
+SniperRifle	3164$
+Grenade	361$
+SniperRifle	3164$
+MachineGun	2780$
+Grenade	361$
+Armor	2439$
+Uniform	1271$
+Uniform	1271$
+BulletCartridge	718$
+MachineGun	2780$
+Uniform	1271$
+
+Ivanov took the MachineGun from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Ivanov took the SniperRifle from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Ivanov took the MachineGun from the military base.
+
+Ivanov took the BulletCartridge from the military base.
+
+Ivanov took the SniperRifle from the military base.
+
+Ivanov took the Grenade from the military base.
+
+Ivanov took the Grenade from the military base.
+
+Ivanov took the Grenade from the military base.
+
+Ivanov took the Grenade from the military base.
+
+Ivanov took the Grenade from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Ivanov took the Uniform from the military base.
+
+Ivanov took the MachineGun from the military base.
+
+Ivanov took the Armor from the military base.
+
+Ivanov took the SniperRifle from the military base.
+
+Ivanov took the SniperRifle from the military base.
+
+Ivanov took the SniperRifle from the military base.
+
+Ivanov took the MachineGun from the military base.
+
+Ivanov took the BulletCartridge from the military base.
+
+Ivanov took the BulletCartridge from the military base.
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a Pistol in the car.
+
+Ivanov took the Armor from the military base.
+
+Petrov put a Pistol in the car.
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a Pistol in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Petrov put a Pistol in the car.
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the Armor from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Armor from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a Pistol in the car.
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a Uniform in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a Armor in the car.
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 2780$
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the Armor from the military base.
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the Grenade from the military base.
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 4079$
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the BulletCartridge from the military base.
+
+Ivanov took the Uniform from the military base.
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 5378$
+
+Ivanov took the Armor from the military base.
+
+Petrov put a Armor in the car.
+
+Ivanov took the BulletCartridge from the military base.
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 6677$
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Petrov put a MachineGun in the car.
+
+Petrov put a Uniform in the car.
+
+Petrov put a SniperRifle in the car.
+
+Petrov put a SniperRifle in the car.
+
+Petrov put a Armor in the car.
+
+Petrov put a SniperRifle in the car.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Armor from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Petrov put a Armor in the car.
+
+Petrov put a Uniform in the car.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 9841$
+
+Petrov put a Uniform in the car.
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a Pistol in the car.
+
+Petrov put a Uniform in the car.
+
+Ivanov took the Armor from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 11140$
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a Armor in the car.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 13920$
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Uniform from the military base.
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 14638$
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the Armor from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a Uniform in the car.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 17802$
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a Armor in the car.
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a Uniform in the car.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 18163$
+
+Petrov put a Armor in the car.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 18524$
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Petrov put a Pistol in the car.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 18885$
+
+Ivanov took the MachineGun from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Armor from the military base.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 19246$
+
+Petrov put a Armor in the car.
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a Uniform in the car.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 19607$
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a Uniform in the car.
+
+Ivanov took the Uniform from the military base.
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 20906$
+
+Petrov put a Armor in the car.
+
+Ivanov took the Armor from the military base.
+
+Petrov put a Pistol in the car.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 22177$
+
+Petrov put a Uniform in the car.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 24957$
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the Armor from the military base.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 27396$
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Petrov put a Armor in the car.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 30560$
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a Uniform in the car.
+
+Petrov put a Uniform in the car.
+
+Petrov put a Uniform in the car.
+
+Petrov put a Armor in the car.
+
+Petrov put a Grenade in the car.
+
+Petrov put a Armor in the car.
+
+Petrov put a MachineGun in the car.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 33724$
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the Uniform from the military base.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 36888$
+
+Petrov put a Uniform in the car.
+
+Ivanov took the Armor from the military base.
+
+Petrov put a Armor in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 39668$
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 40386$
+
+Ivanov took the BulletCartridge from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 41104$
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a Pistol in the car.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 44268$
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the Armor from the military base.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 46707$
+
+Petrov put a Grenade in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Petrov put a Armor in the car.
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a MachineGun in the car.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 47068$
+
+Petrov put a Uniform in the car.
+
+Ivanov took the Armor from the military base.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 50232$
+
+Petrov put a Armor in the car.
+
+Ivanov took the Armor from the military base.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 53012$
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a Armor in the car.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 54283$
+
+Petrov put a Uniform in the car.
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a Pistol in the car.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 57447$
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Armor from the military base.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 60611$
+
+Petrov put a Armor in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Ivanov took the MachineGun from the military base.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 63050$
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a MachineGun in the car.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 66214$
+
+Petrov put a Grenade in the car.
+
+Ivanov took the BulletCartridge from the military base.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 66575$
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the Grenade from the military base.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 69739$
+
+Ivanov took the SniperRifle from the military base.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 72178$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 73449$
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Pistol from the military base.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 73810$
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 76590$
+
+Ivanov took the Pistol from the military base.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 79754$
+
+Petrov put a Pistol in the car.
+
+Ivanov took the BulletCartridge from the military base.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 81025$
+
+Petrov put a Grenade in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 82324$
+
+Petrov put a Pistol in the car.
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the Pistol from the military base.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 83595$
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a Grenade in the car.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 86759$
+
+Petrov put a Pistol in the car.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 89923$
+
+Petrov put a Pistol in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a MachineGun in the car.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 92362$
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a Uniform in the car.
+
+Ivanov took the Grenade from the military base.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 92723$
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Armor from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Pistol from the military base.
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 93441$
+
+Ivanov took the BulletCartridge from the military base.
+
+Petrov put a Uniform in the car.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 94712$
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a Armor in the car.
+
+Ivanov took the Pistol from the military base.
+
+Ivanov took the MachineGun from the military base.
+
+Petrov put a Pistol in the car.
+
+Ivanov took the Uniform from the military base.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 97151$
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the Pistol from the military base.
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 97869$
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 99140$
+
+Petrov put a Pistol in the car.
+
+Ivanov took the Armor from the military base.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 101579$
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Ivanov took the BulletCartridge from the military base.
+
+Ivanov took the BulletCartridge from the military base.
+
+Ivanov took the Armor from the military base.
+
+Ivanov took the SniperRifle from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Ivanov took the SniperRifle from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 104359$
+
+Ivanov took the BulletCartridge from the military base.
+
+Ivanov took the Grenade from the military base.
+
+Ivanov took the SniperRifle from the military base.
+
+Ivanov took the Armor from the military base.
+
+Ivanov took the Armor from the military base.
+
+Ivanov took the Armor from the military base.
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 105658$
+
+Ivanov took the Armor from the military base.
+
+Petrov put a Uniform in the car.
+
+Ivanov took the Pistol from the military base.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 106019$
+
+Petrov put a Uniform in the car.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 108458$
+
+Petrov put a Pistol in the car.
+
+Ivanov took the BulletCartridge from the military base.
+
+Petrov put a Pistol in the car.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 109729$
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the Grenade from the military base.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 111000$
+
+Petrov put a Armor in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 113439$
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Petrov put a BulletCartridge in the car.
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 114738$
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 116009$
+
+Petrov put a Armor in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 119173$
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a Pistol in the car.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 121953$
+
+Petrov put a Pistol in the car.
+
+Ivanov took the Armor from the military base.
+
+Petrov put a BulletCartridge in the car.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 124733$
+
+Ivanov took the Pistol from the military base.
+
+Ivanov took the SniperRifle from the military base.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 127172$
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a Armor in the car.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 128443$
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a Armor in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 129714$
+
+Petrov put a Armor in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Petrov put a Armor in the car.
+
+Ivanov took the BulletCartridge from the military base.
+
+Ivanov took the Uniform from the military base.
+
+Ivanov took the Armor from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Ivanov took the BulletCartridge from the military base.
+
+Ivanov took the Uniform from the military base.
+
+Ivanov took the Grenade from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 130985$
+
+Ivanov took the SniperRifle from the military base.
+
+Ivanov took the Armor from the military base.
+
+Ivanov took the MachineGun from the military base.
+
+Ivanov took the Armor from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 133424$
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a Pistol in the car.
+
+Ivanov took the Pistol from the military base.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 133785$
+
+Ivanov took the BulletCartridge from the military base.
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the BulletCartridge from the military base.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 136224$
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the BulletCartridge from the military base.
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a Uniform in the car.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the Armor from the military base.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 139004$
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 142168$
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a Armor in the car.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 144948$
+
+Ivanov took the BulletCartridge from the military base.
+
+Petrov put a Pistol in the car.
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the Pistol from the military base.
+
+Petrov put a Uniform in the car.
+
+Ivanov took the Pistol from the military base.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 146219$
+
+Petrov put a Pistol in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Petrov put a Grenade in the car.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 148658$
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a Grenade in the car.
+
+Ivanov took the SniperRifle from the military base.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 151438$
+
+Petrov put a SniperRifle in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 154602$
+
+Petrov put a MachineGun in the car.
+
+Ivanov took the Grenade from the military base.
+
+Petrov put a BulletCartridge in the car.
+
+Ivanov took the Armor from the military base.
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 155320$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 158484$
+
+Petrov put a Uniform in the car.
+
+Ivanov took the Uniform from the military base.
+
+Petrov put a Armor in the car.
+
+Ivanov took the Uniform from the military base.
+
+Ivanov took the BulletCartridge from the military base.
+
+Petrov put a Pistol in the car.
+
+Ivanov took the MachineGun from the military base.
+
+Ivanov took the Uniform from the military base.
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 159783$
+
+Petrov put a BulletCartridge in the car.
+
+Petrov put a Uniform in the car.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 162947$
+
+Petrov put a Grenade in the car.
+
+Petrov put a Pistol in the car.
+
+Petrov put a SniperRifle in the car.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 163308$
+
+Petrov put a Armor in the car.
+
+Petrov put a MachineGun in the car.
+
+Petrov put a Armor in the car.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 165747$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 168527$
+
+Petrov put a Pistol in the car.
+
+Petrov put a Uniform in the car.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 169798$
+
+Petrov put a Pistol in the car.
+
+Petrov put a BulletCartridge in the car.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 172237$
+
+Petrov put a Pistol in the car.
+
+Petrov put a Pistol in the car.
+
+Petrov put a BulletCartridge in the car.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 174676$
+
+Petrov put a BulletCartridge in the car.
+
+Petrov put a Pistol in the car.
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 175947$
+
+Petrov put a Armor in the car.
+
+Petrov put a Grenade in the car.
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 177246$
+
+Petrov put a MachineGun in the car.
+
+Petrov put a Uniform in the car.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 177607$
+
+Petrov put a Grenade in the car.
+
+Petrov put a BulletCartridge in the car.
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 180046$
+
+Petrov put a Pistol in the car.
+
+Petrov put a Pistol in the car.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 183210$
+
+Petrov put a SniperRifle in the car.
+
+Petrov put a Grenade in the car.
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 185990$
+
+Petrov put a SniperRifle in the car.
+
+Petrov put a MachineGun in the car.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 186351$
+
+Petrov put a Grenade in the car.
+
+Petrov put a Armor in the car.
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 187069$
+
+Petrov put a Uniform in the car.
+
+Petrov put a Uniform in the car.
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 187430$
+
+Petrov put a BulletCartridge in the car.
+
+Petrov put a MachineGun in the car.
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 190594$
+
+Petrov put a Uniform in the car.
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 191893$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 192254$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 193553$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 194271$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 197051$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 197412$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 198711$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 200010$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 202790$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 204061$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 204422$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 204783$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 206054$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 208493$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 209792$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 210510$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 213674$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 214973$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 217753$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 219024$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 220295$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 221594$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 222893$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 225673$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 228112$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 231276$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 234056$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 234774$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 235492$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 237931$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 241095$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 242394$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 245558$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 246857$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 247575$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 247936$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 251100$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 253539$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 255978$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 258417$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 260856$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 262155$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 262873$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 263234$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 266398$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 269178$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 270449$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 273613$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 276777$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 279941$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 282721$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 285160$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 286459$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 289623$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 290894$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 292193$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 292554$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 292915$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 296079$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 298859$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 299577$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 300848$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 303287$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 304586$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 305304$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 306575$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 306936$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 308235$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 311399$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 313838$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 316618$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 319057$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 320356$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 321627$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 322926$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 323644$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 324943$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 326242$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 326960$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 327678$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 328977$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 331416$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 331777$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 334557$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 335828$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 336189$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 336907$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 338206$
+
+Necheporchuk said: Oh, this Pistol costs 1299$.
+Sum of prices of all military items I counted is 339505$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 342669$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 343030$
+
+Necheporchuk said: Oh, this SniperRifle costs 3164$.
+Sum of prices of all military items I counted is 346194$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 348974$
+
+Necheporchuk said: Oh, this Grenade costs 361$.
+Sum of prices of all military items I counted is 349335$
+
+Necheporchuk said: Oh, this Armor costs 2439$.
+Sum of prices of all military items I counted is 351774$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 353045$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 354316$
+
+Necheporchuk said: Oh, this BulletCartridge costs 718$.
+Sum of prices of all military items I counted is 355034$
+
+Necheporchuk said: Oh, this MachineGun costs 2780$.
+Sum of prices of all military items I counted is 357814$
+
+Necheporchuk said: Oh, this Uniform costs 1271$.
+Sum of prices of all military items I counted is 359085$
+
+
+Process finished with exit code 0
